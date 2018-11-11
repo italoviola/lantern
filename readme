@@ -1,0 +1,13 @@
+A page that simulates a lantern, following the rules below:
+
+Features:
+- When open the page, the lantern is turned off and battery is 100%.
+- When turn on the lantern, the battery decreases 1% of charge each second.
+- When battery reaches 0%, the lantern turns off.
+- When change the battery, restore 100% of it charge.
+
+Layout:
+- It must have a "Turn On/Turn Off" and a "Change Battery" button.
+- It must show the lantern status and it's battery charge
+- It must have responsive layout
+- It must be creative!
